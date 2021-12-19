@@ -11,7 +11,7 @@ IF = open("../day14.data")
 POLY = []
 MAP = {}
 MODE = 0
-MAX_GEN = 10
+MAX_GEN = 40
 COUNTS = {}
 PAIRS = {}
 
